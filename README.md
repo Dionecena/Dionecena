@@ -26,7 +26,7 @@ $me->introduce();
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0078D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer+in+Progress...;Passionate+about+Code+%26+Innovation)](https://git.io/typing-svg)
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNhZ2s1ajF1c2J3ajhxNnM0MTRzanhiZmlwNHA1cDFiejh4eTBydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsUWq3SQ3NLYusKJ4O/giphy.gif" width="100%" alt="banner" />
+<img src="https://media.giphy.com/media/lsUWq3SQ3NLYusKJ4O/giphy.gif" width="100%" alt="banner" />
 
 </div>
 
