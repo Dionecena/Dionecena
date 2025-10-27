@@ -1,4 +1,3 @@
-```md
 <!-- Profil GitHub complet de Dionecena -->
 ```php
 <?php
@@ -19,7 +18,7 @@ $me->introduce();
 
 
 ---
-
+```md
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0078D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer+in+Progress...;Passionate+about+Code+%26+Innovation)](https://git.io/typing-svg)
