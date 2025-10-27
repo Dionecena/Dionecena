@@ -1,6 +1,13 @@
+```md
 <!-- Profil GitHub complet de Dionecena -->
+
 ```php
 <?php
+/**
+ * 👋 Hello World! I'm Moussa Dione
+ * 💻 A passionate Fullstack Developer from Senegal 🇸🇳
+ */
+
 class Moussa {
   public $name = "Moussa Dione";
   public $location = "Rufisque, Senegal";
@@ -8,7 +15,7 @@ class Moussa {
   public $exploring = ["React", "Angular", "PowerShell", "Kali Linux"];
 
   public function introduce() {
-    echo "Hi, I'm $this->name. I love building digital tools for local impact!";
+    echo "Hi, I'm {$this->name}. I love building digital tools for local impact!";
   }
 }
 
@@ -16,9 +23,8 @@ $me = new Moussa();
 $me->introduce();
 ?>
 
-
 ---
-```md
+```
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0078D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer+in+Progress...;Passionate+about+Code+%26+Innovation)](https://git.io/typing-svg)
