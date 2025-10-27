@@ -1,5 +1,5 @@
 <!-- Profil GitHub complet de Dionecena -->
-```php
+
 <?php
 class Moussa {
   public $name = "Moussa Dione";
@@ -15,7 +15,7 @@ class Moussa {
 $me = new Moussa();
 $me->introduce();
 ?>
-```php
+
 
 ---
 
