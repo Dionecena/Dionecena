@@ -1,19 +1,5 @@
-<!-- ✨ Profil animé Dionecena ✨ -->
-<div align="center">
+<!-- Profil GitHub complet de Dionecena -->
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=650&lines=👋+Hey!+I'm+Dionecena;💻+Fullstack+Developer+in+Training;🚀+Building+useful+and+impactful+projects)](https://git.io/typing-svg)
-
-<!-- Banner -->
-<img src="https://i.imgur.com/jx17oHT.gif" width="100%" alt="banner" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-```php
 <?php
 class Moussa {
   public $name = "Moussa Dione";
@@ -29,17 +15,35 @@ class Moussa {
 $me = new Moussa();
 $me->introduce();
 ?>
-💬 Passionné par le développement web & logiciel, j’aime créer des projets concrets qui résolvent des problèmes réels.
-🎯 Objectif : devenir Fullstack Developer complet et polyvalent.
-📍 Basé à Rufisque, Sénégal
-📫 Email : Dionecena007@gmail.com
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0078D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer+in+Progress...;Passionate+about+Code+%26+Innovation)](https://git.io/typing-svg)
+
+<img src="https://i.imgur.com/JN3rf0T.gif" width="400" alt="Banner"/>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+💡 Passionné par le **développement web & logiciel**, j’aime créer des projets concrets qui résolvent des problèmes réels.  
+🎓 Étudiant & **Fullstack Developer** en constante évolution.  
+🌍 Basé à **Rufisque, Sénégal**.  
+📧 **Email :** [Dionecena007@gmail.com](mailto:Dionecena007@gmail.com)  
+⚙️ **Exploring :** React, Node.js, PowerShell, Kali Linux  
+🔥 “Le code, c’est la poésie que comprend la machine.”
+
+---
 
 ## ⚙️ Languages, Frameworks & Tools
 
 <p align="center">
 
-<h3>💻 Languages</h3>
-
+### 💻 Languages  
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -49,10 +53,9 @@ $me->introduce();
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
 
-<br/><br/>
+---
 
-<h3>⚡ Frameworks & Libraries</h3>
-
+### ⚡ Frameworks & Libraries  
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
@@ -60,10 +63,9 @@ $me->introduce();
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 
-<br/><br/>
+---
 
-<h3>🧰 Tools & Platforms</h3>
-
+### 🧰 Tools & Platforms  
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
@@ -74,3 +76,32 @@ $me->introduce();
 <img src="https://img.shields.io/badge/Terminal-000000?logo=gnu-bash&logoColor=white" />
 
 </p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dionecena&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dionecena&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dionecena&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 💬 Citation
+
+> "Le code, c’est la poésie que comprend la machine."  
+> "Apprendre, c’est recommencer jusqu’à ce que ça marche."
+
+---
+
+## ❤️ Support
+
+Si tu aimes mes projets, n’hésite pas à les **mettre en favori ⭐** !  
+<br>
+[![Visitors](https://komarev.com/ghpvc/?username=Dionecena&label=Visitors&color=0e75b6&style=flat)](https://github.com/Dionecena)
+
+---
