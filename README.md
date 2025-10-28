@@ -102,6 +102,10 @@ $me->introduce();
 
 ---
 
+![snake gif](https://github.com/Dionecena/Dionecena/blob/output/github-snake.svg)
+
+---
+
 ## ❤️ Support
 
 Si tu aimes mes projets, n’hésite pas à les **mettre en favori ⭐** !  
