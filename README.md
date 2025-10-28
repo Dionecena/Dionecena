@@ -26,7 +26,7 @@
  * 💻 A passionate Fullstack Developer from Senegal 🇸🇳
  */
 
-class Moussa {
+class Dionecena {
   public $name = "Moussa Dione";
   public $location = "Rufisque, Senegal";
   public $email = "Dionecena007@gmail.com";
