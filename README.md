@@ -101,6 +101,11 @@ $me->introduce();
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-000000?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local-43B02A?logo=flywheel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
   <br/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="developer at work gif" />
 </p>
