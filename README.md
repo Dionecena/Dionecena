@@ -26,7 +26,7 @@ $me->introduce();
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0078D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer+in+Progress...;Passionate+about+Code+%26+Innovation)](https://git.io/typing-svg)
 
-<img src="https://giphy.com/gifs/bleach-kisuke-urahara-aDS8SjVtS3Mwo" width="100%" alt="kisuke" />
+<img src="https://github.com/Dionecena/Dionecena/blob/main/assets/LiveWallpaperPC.com-Ghost-Modern-Warfare-II-1920x1080.mp4" width="100%" alt="kisuke" />
 
 </div>
 
