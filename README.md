@@ -39,7 +39,7 @@ class Dionecena {
     echo "💡 Passionate about web & software development.\n";
     echo "🌍 Based in {$this->location}.\n";
     echo "⚙️ Currently exploring: " . implode(", ", $this->exploring) . ".\n";
-    echo "🔥 “Code is raw. Style is mine.”\n";
+    echo "🔥 “Code is raw. Style is min.”\n";
   }
 }
 
