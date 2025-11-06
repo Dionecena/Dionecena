@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0078D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Developer+in+Progress...;Passionate+about+Code+%26+Innovation)](https://git.io/typing-svg)
 
-<img src="https://s5.ezgif.com/tmp/ezgif-5032a1953469c0.mp4?raw=true" width="100%" alt="Ghost" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ6NzJxNXhnY2JzM255anlwZHNwdHNrM2RuMGxuaHIwcG9kcGZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BOdTGnriOA0cxPcJSv/giphy.gif?raw=true" width="100%" alt="Ghost" />
 
 </div>
 
